@@ -13,11 +13,6 @@ it's to read, triage, and harden it under time pressure.
 > In ~15 minutes, walk me through everything you'd change to make it
 > production-ready, then implement the **two** changes you think matter most.
 
-The signal we care about most is not how many bugs you fix — it's the sentence
-you say *before* you start typing:
-
-> "There are ~10 things wrong here; the two that matter most in production are
-> X and Y, because…"
 
 That prioritization is what distinguishes senior from staff.
 
