@@ -14,8 +14,6 @@ it's to read, triage, and harden it under time pressure.
 > production-ready, then implement the **two** changes you think matter most.
 
 
-That prioritization is what distinguishes senior from staff.
-
 ## Requirements
 
 - Python 3.8+ (standard library only — no dependencies)
